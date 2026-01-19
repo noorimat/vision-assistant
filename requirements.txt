@@ -4,3 +4,8 @@ ultralytics==8.1.11
 pyttsx3==2.90
 torch==2.1.2
 torchvision==0.16.2
+
+# Development dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
